@@ -1,0 +1,6 @@
+{
+  "name": "Cynbit Inquiry Intelligence",
+  "description": "AI-powered client inquiry triage, transparent lead priority scoring, Cynbit service matching, preliminary proposal generation, and human-approved email drafting for Cynbit Technologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

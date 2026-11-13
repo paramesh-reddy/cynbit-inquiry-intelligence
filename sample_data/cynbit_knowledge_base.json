@@ -1,0 +1,143 @@
+[
+  {
+    "id": "kb-ai-agents",
+    "title": "AI Automation & Autonomous LLM Agents",
+    "service_category": "AI Automation",
+    "offering_type": "Core Service",
+    "source_url": "https://www.cynbit.in/services",
+    "summary": "Design and deployment of autonomous AI agents, LLM-driven workflow orchestration, cognitive document processing, and multi-platform business automation.",
+    "capabilities": [
+      "Autonomous multi-step AI agents and tool orchestration",
+      "LLM-driven data extraction, triage, and workflow automation",
+      "Retrieval-Augmented Generation (RAG) and enterprise knowledge assistants",
+      "Human-in-the-loop approval pipelines and structured JSON integrations"
+    ],
+    "typical_stack": ["Python", "FastAPI", "OpenAI GPT-4o-mini", "LangGraph", "Vector Store", "PostgreSQL"],
+    "ideal_for": "Operations teams automating manual document review, lead qualification, internal knowledge lookup, and multi-system workflows."
+  },
+  {
+    "id": "kb-ai-voice",
+    "title": "Conversational AI Voice Agents",
+    "service_category": "AI/ML",
+    "offering_type": "Core Service",
+    "source_url": "https://www.cynbit.in/services",
+    "summary": "Low-latency conversational AI voice assistants for inbound customer support, appointment booking, outbound lead qualification, and human-machine voice interaction.",
+    "capabilities": [
+      "Inbound and outbound AI voice call handling",
+      "Real-time speech-to-text, intent detection, and natural TTS synthesis",
+      "CRM call logging, transcript summarization, and warm human handoff",
+      "Multilingual voice support and appointment scheduling"
+    ],
+    "typical_stack": ["Python", "WebSockets", "Realtime Voice APIs", "FastAPI", "CRM Webhooks"],
+    "ideal_for": "Healthcare clinics, real estate agencies, and service businesses handling high inbound call volumes."
+  },
+  {
+    "id": "kb-fullstack",
+    "title": "Full-Stack Web & SaaS Product Engineering",
+    "service_category": "Full-Stack Development",
+    "offering_type": "Core Service",
+    "source_url": "https://www.cynbit.in/services",
+    "summary": "End-to-end custom software engineering covering responsive React/TypeScript interfaces, scalable backend APIs, multi-tenant SaaS platforms, and mobile ecosystems.",
+    "capabilities": [
+      "Custom B2B SaaS portals and enterprise dashboards",
+      "REST and GraphQL backend architecture with relational data modeling",
+      "Role-based access control, billing integrations, and analytics",
+      "Legacy application modernization and API-first platform builds"
+    ],
+    "typical_stack": ["React", "TypeScript", "Tailwind CSS", "Python FastAPI", "Node.js", "PostgreSQL"],
+    "ideal_for": "Founders and enterprises launching custom web applications, customer portals, or vertical SaaS products."
+  },
+  {
+    "id": "kb-crm",
+    "title": "CRM Automation & Revenue Funnel Engineering",
+    "service_category": "CRM Automation",
+    "offering_type": "Core Service",
+    "source_url": "https://www.cynbit.in/services",
+    "summary": "Automated lead nurturing engines, CRM pipeline synchronization, conversion funnel optimization, and omnichannel follow-up workflows.",
+    "capabilities": [
+      "Automated lead capture, enrichment, and routing rules",
+      "Bi-directional sync between web forms, CRM, email, and WhatsApp",
+      "Pipeline stage automation and follow-up cadence triggers",
+      "Custom sales operations dashboards and attribution tracking"
+    ],
+    "typical_stack": ["Python", "REST Webhooks", "HubSpot / Zoho / Custom CRM APIs", "PostgreSQL", "Celery"],
+    "ideal_for": "Sales and marketing teams losing inbound leads due to manual follow-ups or disconnected CRM tools."
+  },
+  {
+    "id": "kb-cloud",
+    "title": "Cloud Infrastructure & Scalable Architecture",
+    "service_category": "Cloud Infrastructure",
+    "offering_type": "Core Service",
+    "source_url": "https://www.cynbit.in/services",
+    "summary": "Secure, high-availability cloud architecture, deployment pipelines, containerization, and performance optimization across AWS, Azure, and GCP.",
+    "capabilities": [
+      "Multi-environment cloud infrastructure provisioning and CI/CD",
+      "Dockerized microservices, autoscaling, and load balancing",
+      "Database migration, backup automation, and security hardening",
+      "Cost optimization and observability setup"
+    ],
+    "typical_stack": ["AWS / GCP / Azure", "Docker", "Terraform", "GitHub Actions", "PostgreSQL", "Nginx"],
+    "ideal_for": "Growing software teams scaling prototypes into resilient production cloud deployments."
+  },
+  {
+    "id": "kb-seo-marketing",
+    "title": "Technical SEO & Performance Digital Marketing",
+    "service_category": "Digital Marketing",
+    "offering_type": "Core Service",
+    "source_url": "https://www.cynbit.in/services",
+    "summary": "Technical SEO infrastructure audits, search ranking growth, structured schema optimization, and ROI-driven Google and Meta ad campaign systems.",
+    "capabilities": [
+      "Core Web Vitals, crawlability, and Schema.org technical SEO",
+      "Search visibility strategy and high-intent landing page optimization",
+      "Performance-led Google Ads and Meta Ads funnel management",
+      "Conversion tracking and analytics reporting"
+    ],
+    "typical_stack": ["Next.js / React SSR", "Google Analytics", "Search Console", "Schema.org", "Tag Manager"],
+    "ideal_for": "Businesses seeking measurable organic search growth and higher conversion rates on paid acquisition."
+  },
+  {
+    "id": "kb-revio",
+    "title": "Revio — AI Review & Reputation Intelligence Assistant",
+    "service_category": "AI/ML",
+    "offering_type": "Proprietary SaaS Product",
+    "source_url": "https://www.cynbit.in/",
+    "summary": "Cynbit's AI-first reputation management SaaS platform for multi-site review synchronization, sentiment analysis, and automated brand-safe customer feedback handling.",
+    "capabilities": [
+      "Multi-platform review aggregation and monitoring",
+      "Sentiment analysis and recurring feedback theme extraction",
+      "AI-assisted response drafting tailored to brand voice"
+    ],
+    "typical_stack": ["AI NLP Pipeline", "React", "FastAPI", "PostgreSQL"],
+    "ideal_for": "Multi-location hospitality, healthcare, and retail brands managing high volumes of customer reviews."
+  },
+  {
+    "id": "kb-tenantease",
+    "title": "TenantEase — Smart Property & Tenant Operations SaaS",
+    "service_category": "Full-Stack Development",
+    "offering_type": "Proprietary SaaS Product",
+    "source_url": "https://www.cynbit.in/",
+    "summary": "Cynbit's specialized PropTech SaaS platform streamlining property operations, tenant lifecycle tracking, lease workflows, and automated rent collection.",
+    "capabilities": [
+      "Tenant onboarding, lease tracking, and unit inventory",
+      "Automated rent reminders and payment ledger tracking",
+      "Maintenance request workflows for landlords and property managers"
+    ],
+    "typical_stack": ["Full-Stack Web Platform", "Automated Notifications", "Relational Database"],
+    "ideal_for": "Real estate operators, co-living spaces, and property managers modernizing tenant administration."
+  },
+  {
+    "id": "kb-cynbit-studio",
+    "title": "Cynbit Studio & BitElevate Talent Ecosystem",
+    "service_category": "Other",
+    "offering_type": "Proprietary Ecosystem & Initiative",
+    "source_url": "https://www.cynbit.in/careers",
+    "summary": "Cynbit Studio focuses on career intelligence and digital workflow scaling, paired with BitElevate's 60-day remote engineering program featuring production repositories and daily PR reviews.",
+    "capabilities": [
+      "Adaptive skill progression across 16+ engineering tracks",
+      "Production Git workflow and daily senior engineer PR feedback",
+      "Technical talent pipeline and social impact IT education initiatives"
+    ],
+    "typical_stack": ["Git Workflows", "Web Learning Portals", "Automated Assessment"],
+    "ideal_for": "Educational partners, technical training cohorts, and career intelligence initiatives."
+  }
+]
